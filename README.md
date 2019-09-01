@@ -1,11 +1,6 @@
 # AgileEngine backend-XML java snippets
 
-It is built on top of [Jsoup](https://jsoup.org/).
-
-You can use Jsoup for your solution or apply any other convenient library. 
-
-
-Output
+Output:
 
 sample-1-evil-gemini.html
 The path of found element is:  -> html[0] -> body[1] -> div[0] -> div[1] -> div[2] -> div[0] -> div[0] -> div[1] -> a[1]
